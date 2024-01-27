@@ -1,0 +1,23 @@
+{
+    "name": "DH.Core.Tests.Editor",
+    "rootNamespace": "DH.Core.Tests.Editor",
+    "references": [
+        "UnityEngine.TestRunner",
+        "DH.Core"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": true,
+    "precompiledReferences": [
+        "nunit.framework.dll"
+    ],
+    "autoReferenced": false,
+    "defineConstraints": [
+        "UNITY_INCLUDE_TESTS"
+    ],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

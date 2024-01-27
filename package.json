@@ -1,0 +1,20 @@
+{
+  "name": "com.dh.core",
+  "version": "1.0.0",
+  "displayName": "DH Core",
+  "description": "",
+  "unity": "2021.3",
+  "dependencies": {
+    "com.cysharp.unitask": "2.5.3"
+  },
+  "keywords": [
+    "core"
+  ],
+  "samples": [
+  ],
+  "author": {
+    "name": "Dirk Hartlage",
+    "email": "dirkhartlage1@gmail.com",
+    "url": "https://dirkhartlage.com"
+  }
+}
