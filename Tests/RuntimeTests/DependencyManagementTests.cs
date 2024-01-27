@@ -23,7 +23,7 @@ namespace DH.Core.Test
         {
             const float timeout = .4f;
 
-            const string prefabPath = "Packages/com.dh.dh_core/Tests/RuntimeTests/TestEntities/TestMultipleDependencies.prefab";
+            const string prefabPath = "Packages/com.dh.core/Tests/RuntimeTests/TestEntities/TestMultipleDependencies.prefab";
 
             // ignore resharper flagging this
             GameObject go = RuntimeTestUtils.InstantiatePrefabFromPath(prefabPath);
